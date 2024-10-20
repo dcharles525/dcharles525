@@ -1,3 +1,3 @@
 ## Hello!
 
-I am interested in golang, Vala, and Ember.js.
+I am interested in Go, Vala, and Ember.js.
